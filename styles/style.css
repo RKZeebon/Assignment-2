@@ -354,6 +354,7 @@ main{
 .fab{
     font-size: 25px;
     margin: 10px;
+    cursor: pointer;
 }
 
 
